@@ -1,5 +1,5 @@
 # House Floor counter using AI 
-This project is developed to find no of floors in building by their RGB front image.
+This hobby project is developed to find no of floors in building by their RGB front image.
 
 Note:Weight file after training can't be added here.You can get it from [here](https://drive.google.com/drive/u/1/folders/1aGmnB_nDbAfu-gIwyk4ZGcNwnjulHd9c) in my Google drive.
 
